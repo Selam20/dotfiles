@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = rvm implode && sudo rm -rf ~/.rvm
-	name = exec zsh
+	email = shailemicael@gmail.com
+	name = gh api...
